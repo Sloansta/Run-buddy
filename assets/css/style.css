@@ -23,6 +23,7 @@ header {
     background-position: center;
     background-attachment: fixed;
     background-position: 80%;
+    z-index: 9999;
 }
 
 header h1 {
@@ -117,6 +118,7 @@ section {
     border-radius: 15px;
 }
 
+
 .hero-form h3 {
     font-size: 24px;
     margin: 0;
@@ -158,6 +160,7 @@ section {
 
 .hero-form button:hover {
     background-color: #fce138;
+    color: #024e76;
 }
 /* Hero Style End */
 
